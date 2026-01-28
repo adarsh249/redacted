@@ -105,64 +105,64 @@ function createConfetti() {
 const valentineEvents = [
     {
         title: "Wake Up ☀️",
-        start: "20250214T063000", // 6:30 AM
-        end: "20250214T073000",   // 7:30 AM
+        start: "20260214T063000", // 6:30 AM
+        end: "20260214T073000",   // 7:30 AM
         location: "Home",
         description: "Rise and shine, it's Valentine's Day! ☀️"
     },
     {
         title: "Drive to Snoqualmie Summit 🚗",
-        start: "20250214T073000", // 7:30 AM
-        end: "20250214T084500",   // 8:45 AM
+        start: "20260214T073000", // 7:30 AM
+        end: "20260214T084500",   // 8:45 AM
         location: "Snoqualmie Summit",
         description: "Road trip to the mountains! 🚗"
     },
     {
         title: "Fireball Shot 🔥",
-        start: "20250214T084500", // 8:45 AM
-        end: "20250214T090000",   // 9:00 AM
+        start: "20260214T084500", // 8:45 AM
+        end: "20260214T090000",   // 9:00 AM
         location: "Snoqualmie Summit",
         description: "A spicy start to the day! 🔥"
     },
     {
         title: "Snowboard 🏂",
-        start: "20250214T090000", // 9:00 AM
-        end: "20250214T120000",   // 12:00 PM
+        start: "20260214T090000", // 9:00 AM
+        end: "20260214T120000",   // 12:00 PM
         location: "Snoqualmie Summit",
         description: "Hit the slopes together! 🏂"
     },
     {
         title: "Lunch 🍔",
-        start: "20250214T120000", // 12:00 PM
-        end: "20250214T130000",   // 1:00 PM
+        start: "20260214T120000", // 12:00 PM
+        end: "20260214T130000",   // 1:00 PM
         location: "Snoqualmie Summit",
         description: "Refuel with a tasty lunch. 🍔"
     },
     {
         title: "Snowboard Again 🏂",
-        start: "20250214T130000", // 1:00 PM
-        end: "20250214T163000",   // 4:30 PM
+        start: "20260214T130000", // 1:00 PM
+        end: "20260214T163000",   // 4:30 PM
         location: "Snoqualmie Summit",
         description: "Back to the slopes for more fun! 🏂"
     },
     {
         title: "Drive Home 🏠",
-        start: "20250214T163000", // 4:30 PM
-        end: "20250214T180000",   // 6:00 PM
+        start: "20260214T163000", // 4:30 PM
+        end: "20260214T180000",   // 6:00 PM
         location: "Home",
         description: "Head home after an epic day. 🏠"
     },
     {
         title: "Taco Bell 🌮",
-        start: "20250214T180000", // 6:00 PM
-        end: "20250214T193000",   // 7:30 PM
+        start: "20260214T180000", // 6:00 PM
+        end: "20260214T193000",   // 7:30 PM
         location: "Taco Bell",
         description: "Taco Bell dinner date! 🌮"
     },
     {
         title: "Watch Movie 🎬",
-        start: "20250214T193000", // 7:30 PM
-        end: "20250214T220000",   // 10:00 PM (arbitrary end time)
+        start: "20260214T193000", // 7:30 PM
+        end: "20260214T220000",   // 10:00 PM (arbitrary end time)
         location: "Home",
         description: "Cozy up and watch a movie together. 🎬"
     }
